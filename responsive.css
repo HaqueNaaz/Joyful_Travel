@@ -1,0 +1,65 @@
+@media (max-width: 920px){
+    .cs-header div i{
+        display: block;
+    }
+    .cs-header-div2{
+        display: none;
+    }
+    .cs-Tours-div {
+        flex-wrap: wrap;
+    }
+    section.cs-Place div {
+        flex-wrap: wrap;
+    }
+    .cs-letter-div {
+        flex-wrap: wrap;
+    }
+    .cs-letter-div div img {
+        width: 100%;
+    }
+    .cs-Place-div-video iframe {
+        width: 100%;
+        height: 100%;
+        padding: 10px;
+    }
+    .cs-Choose-div1 ,.cs-Choose-div2,.cs-Choose-div3 {
+        width: 80%;
+        height: 100%;
+    }
+    .cs-Tours-div2 img {
+        width: 100%;
+    }
+    .main {
+        width: 95%;
+        margin: 0 auto;
+    }
+    .section-head {
+        padding: 10px 5%;
+    }
+    .cs-Deals-div-box, .cs-Deals-div-box2{
+        width: 100%;
+        margin: 0 auto;
+        padding: 30px;
+        margin: 0px 0px -57px -10%;
+    }
+    .cs-Deals-div-icon {
+        flex-wrap: wrap;
+    }
+    .cs-form {
+        border: 1px solid #ff5400;
+        border-radius: 16px;
+        padding: 20px;
+        margin-bottom: 50px;
+    }
+    .cs-form form input {
+        width: 80%;
+        padding: 14px 10%;
+        margin: 10px;
+    }
+    .cs-letter-rot {
+        display: none;
+    }
+    .cs-Destination-image div {
+        flex-wrap: wrap;
+    }
+}
